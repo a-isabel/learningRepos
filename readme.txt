@@ -1,2 +1,1 @@
-my first git configuration
- have no ideia what i'm dooing
+1st git configuration
