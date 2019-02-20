@@ -1,0 +1,10 @@
+firefox
+google-chrome
+atom
+slack
+iterm2
+intellij-idea
+postman
+visual-studio-code
+wireshark
+gimp
