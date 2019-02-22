@@ -4,16 +4,26 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Hotel hotel= new Hotel();
-        hotel.setHotelName("No Sleep Until Deploy");
+        Hotel hotel1 = new Hotel();
 
-        Guest Alzira = new Guest();
+        Guest guest1 = new Guest();
+        Guest guest2 = new Guest();
+        Guest guest3 = new Guest();
 
-        Alzira.askCheckIn();
 
-        Alzira.getRoomNumber();
+        guest1.setHotel(hotel1);
+        guest1.askCheckIn();
 
-        Alzira.askCheckOut();
+
+        guest2.setHotel(hotel1);
+        guest2.askCheckIn();
+
+
+        guest1.askCheckOut();
+
+        guest3.setHotel(hotel1);
+        guest3.askCheckIn();
+
 
 
 
