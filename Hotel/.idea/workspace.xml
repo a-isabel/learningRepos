@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be8fb084-a1a0-4be2-b256-83f91f9aa4bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/.idea/libraries/simplegraphics.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/Ballman.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/lib/simplegraphics.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/MENU FINAL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/Winner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/arsenio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/ball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/fatima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/floor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/jao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/lindinha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/maria.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/player_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/player_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/player_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/player_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/quim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/rutMarlene.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/sidonio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/to.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/tony.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/toy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/resources/ze.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/Collidable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/Directions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/Grid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/Images.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/gameobjects/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/gameobjects/GameObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/gameobjects/Pokemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/gameobjects/factory/ObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/gameobjects/factory/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/Ballman/src/org/academiadecodigo/asciimos/ballman/game/gameobjects/factory/RandomCoordinate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ballman-IMAGE/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/ArabianNights.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/src/org/academiadecodigo/asciimos/Genies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/src/org/academiadecodigo/asciimos/GrumpyGenies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/src/org/academiadecodigo/asciimos/HappyGenies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/src/org/academiadecodigo/asciimos/Lamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/src/org/academiadecodigo/asciimos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNights/src/org/academiadecodigo/asciimos/RecyclableDemons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/field/Grid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/field/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/GameObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/balls/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/balls/BallFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/balls/PokeBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/enemies/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/enemies/Pokemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/enemies/PokemonFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/enemies/PokemonName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/interfaces/Colidable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/interfaces/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/obstacles/Obstacle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/objects/obstacles/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/players/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BallMen/src/org/academiadecodigo/asciimos/ballmen/game/players/Trainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/build/HelloWorld.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/build/classes/org/academiadecodigo/bootcamp22/helloworld/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/etc/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/academiadecodigo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/bootcamp22/.idea/bootcamp22.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/bootcamp22/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/bootcamp22/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/bootcamp22/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/bootcamp22/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/org/academiadecodigo/bootcamp22/helloworld/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herança/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herança/src/org/academiadecodigo/bootcamp22/ACPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herança/src/org/academiadecodigo/bootcamp22/CodeCadet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herança/src/org/academiadecodigo/bootcamp22/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herança/src/org/academiadecodigo/bootcamp22/MasterCoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapEditor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapEditor/src/org/academiadecodigo/asciimos/MapCells.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/ArmouredEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/Barrel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/BarrelType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/Destroyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/EnemyTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/GameObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/SniperRifle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/SoldierEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/asciimos/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars/src/org/academiadecodigo/asciimos/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars/src/org/academiadecodigo/asciimos/DarthVader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars/src/org/academiadecodigo/asciimos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars/src/org/academiadecodigo/asciimos/R2D2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars/src/org/academiadecodigo/asciimos/Yoda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoList/src/org/academiadecodigo/asciimos/todolist/Importance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoList/src/org/academiadecodigo/asciimos/todolist/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoList/src/org/academiadecodigo/asciimos/todolist/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoList/src/org/academiadecodigo/asciimos/todolist/ToDoList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class_repo-master/skeletons/linked-list-skeleton/src/org/academiadecodigo/bootcamp/containers/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../class_repo-master/skeletons/linked-list-skeleton/src/org/academiadecodigo/bootcamp/containers/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../class_repo-master/skeletons/linked-list-skeleton/src/org/academiadecodigo/bootcamp/containers/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../class_repo-master/skeletons/linked-list-skeleton/src/org/academiadecodigo/bootcamp/containers/LinkedListTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/Hotel/Hotel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hotel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hotel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be8fb084-a1a0-4be2-b256-83f91f9aa4bd" name="Default Changelist" comment="" />
+      <created>1550688425771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550688425771</updated>
+      <workItem from="1550688428972" duration="1249000" />
+    </task>
+    <task id="LOCAL-00001" summary="add class projects">
+      <created>1550689088504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550689088504</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1249000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="977" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add class projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class projects" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/Hotel/Hotel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

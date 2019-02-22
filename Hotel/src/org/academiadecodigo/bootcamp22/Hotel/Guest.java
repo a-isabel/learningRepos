@@ -2,28 +2,21 @@ package org.academiadecodigo.bootcamp22.Hotel;
 
 public class Guest {
 
-    String name;
-    int roomNumber;
+    private Hotel hotel1;
+    private int roomKey;
 
-    public void setRoomNumber(int roomNumber) {
-        this.roomNumber = roomNumber;
+    public void setHotel(Hotel hotel1) {
+        this.hotel1 = hotel1;
     }
 
-    public String getName() {
-        return name;
+    public void askCheckIn() {
+
+       roomKey = hotel1.checkIn();
     }
 
-    public int getRoomNumber() {
-        return roomNumber;
+    public void askCheckOut() {
+
+        hotel1.checkout(roomKey);
     }
 
-    public void askCheckIn(){
-        System.out.println("Can I please check in?");
-        Hotel.
-
-    }
-
-    public void askCheckOut(){
-        System.out.println("Please check me out from the hotel.");
-    }
 }
