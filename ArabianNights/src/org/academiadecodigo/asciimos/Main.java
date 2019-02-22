@@ -37,7 +37,7 @@ public class Main {
         lamp.rub();
         lamp.rub();
         lamp.recharge();
-        lamp.getTimesRecharged();
+        lamp.getTimesRecycled();
 
 
 

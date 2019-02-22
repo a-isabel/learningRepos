@@ -5,7 +5,7 @@ public class Genies {
     private int wishes;
     private int grantedWishes;
 
-    public Genies() {
+    public Genies(){
         wishes = 4;
         grantedWishes = 0;
 
@@ -19,7 +19,7 @@ public class Genies {
         return grantedWishes;
     }
 
-    public void grantWish() {
+    public void grantWish(){
         grantedWishes++;
     }
 

@@ -3,7 +3,6 @@ package org.academiadecodigo.asciimos;
 public class HappyGenies extends Genies {
 
 
-
     @Override
     public void grantWish() {
         if (getWishes() <= getGrantedWishes()) {

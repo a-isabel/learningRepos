@@ -2,12 +2,8 @@ package org.academiadecodigo.bootcamp22.GuessNumber;
 
 public class Game {
 
+    private final Players[] arrayPlayers;
     private int targetNumber;
-
-
-    public int getTargetNumber() {
-        return targetNumber = GetRandom.generateInt();
-    }
 
     public Game(Players[] arrayPlayers, int targetNumber) {
 
@@ -15,14 +11,23 @@ public class Game {
         this.targetNumber = targetNumber;
     }
 
-    public boolean StartGame() {
+    public void StartGame() {
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("  Let's play a guessing game!");
+        System.out.println("  Guess number from 0 to 10.");
+        System.out.println("_____________________________________________________________________________________");
 
-        if (Players.getChosenNumber() == getTargetNumber()) {
-            System.out.println("Congrats " + arrayPlayers[1].getName() + " you won the game!");
-            return true;
+        while (Players.getChosenNumber() != targetNumber) {
+            System.out.println(" ");
+            System.out.println("  " + Players.getChosenNumber() + " is wrong.");
+            System.out.println("  Try again!");
+            System.out.println("_________________________________________________________________________________");
+
         }
+            System.out.println(" ");
+            System.out.println("  Congrats you won the game.");
+            System.out.println("  The correct number was " + targetNumber + ".");
 
-        System.out.println("try again!");
-        return false ;
     }
 }

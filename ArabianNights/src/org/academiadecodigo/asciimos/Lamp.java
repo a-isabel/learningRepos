@@ -2,7 +2,7 @@ package org.academiadecodigo.asciimos;
 
 public class Lamp {
 
-    private int timesRecharged = 0;
+    private int timesRecycled = 0;
     private int timesRubbed = 0;
 
 
@@ -10,25 +10,21 @@ public class Lamp {
 
     public Lamp() {
         this.genies = new Genies[4];
-        System.out.println("A Magic Lamp with " + (genies.length - 1) + " Magic Genies appeared." +
+        System.out.println("A Magic Lamp with " + (genies.length-1) + " Magic Genies appeared." +
                 " Try rubbing it to see if they'll come out.");
     }
 
-    public void getTimesRecharged() {
-
-        System.out.println("The Magic Lamp was recycled " + (timesRecharged) + " times.");
+    public void getTimesRecycled() {
+        System.out.println("The Magic Lamp was recycled " + (timesRecycled) + " times.");
     }
 
 
     public void rub() {
         timesRubbed++;
 
-        // TODO: 2019-01-28 Return the genies.
-
         if (timesRubbed % 2 == 0 && timesRubbed < genies.length) {
             genies[timesRubbed - 1] = new HappyGenies();
             System.out.println("An Happy Genie has appeared!");
-            //return genies[timesRubbed - 1];
 
         }
         if (timesRubbed % 2 != 0 && timesRubbed < genies.length) {
@@ -82,7 +78,7 @@ public class Lamp {
             genies[i] = null;
         }
         timesRubbed = 0;
-        timesRecharged++;
+        timesRecycled++;
         System.out.println("The Magic Lamp is recharged! You can rub it again ...");
     }
 }

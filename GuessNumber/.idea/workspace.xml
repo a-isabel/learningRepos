@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="888b58a2-84e8-4c5e-b57d-dcf445f29825" name="Default Changelist" comment="">
+    <list default="true" id="99d4329e-42f5-4812-b7aa-a6ca053ef76d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Input_Output/src/org/academiadecodigo/asciimos/FileManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GroupProject/Ballman-DEVELOP/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../GroupProject/Ballman-DEVELOP/Ballman/src/org/academiadecodigo/asciimos/ballman/game/Commands.java" beforeDir="false" />
@@ -9,15 +9,12 @@
       <change beforePath="$PROJECT_DIR$/../GroupProject/Ballman-DEVELOP/Ballman/src/org/academiadecodigo/asciimos/ballman/game/gameobjects/Position/GridInterface.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../GroupProject/Ballman-DEVELOP/Ballman/src/org/academiadecodigo/asciimos/ballman/game/gameobjects/Position/GridPosition.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../GroupProject/Ballman-DEVELOP/Ballman/src/org/academiadecodigo/asciimos/ballman/game/gameobjects/Position/Position.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessNumber/GuessNumber.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessNumber/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessNumber/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/GetRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessNumber/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessNumber/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/Players.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessNumber/src/org/academiadecodigo/bootcamp22/GuessNumber/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessNumber/src/org/academiadecodigo/bootcamp22/GuessNumber/GetRandom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessNumber/src/org/academiadecodigo/bootcamp22/GuessNumber/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessNumber/src/org/academiadecodigo/bootcamp22/GuessNumber/Players.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/GetRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/GetRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/Players.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuessNumber/org/academiadecodigo/bootcamp22/GuessNumber/Players.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Input_Output/src/org/academiadecodigo/asciimos/inputoutput/FileManager.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Input_Output/src/org/academiadecodigo/asciimos/inputoutput/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Input_Output/src/org/academiadecodigo/asciimos/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MapEditor/.idea/vcs.xml" beforeDir="false" />
@@ -40,41 +37,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/asciimos/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/asciimos/HappyGenies.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/asciimos/Genies.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/asciimos/Lamp.java">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Players.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/GetRandom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessNumber.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -82,10 +84,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Main.java" />
+        <option value="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Game.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="801" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -93,34 +102,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ArabianNights" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArabianNights" type="462c0819:PsiDirectoryNode" />
+              <item name="GuessNumber" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuessNumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArabianNights" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArabianNights" type="462c0819:PsiDirectoryNode" />
+              <item name="GuessNumber" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuessNumber" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArabianNights" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArabianNights" type="462c0819:PsiDirectoryNode" />
+              <item name="GuessNumber" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuessNumber" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="asciimos" type="462c0819:PsiDirectoryNode" />
+              <item name="GuessNumber" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550795859350" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550795664621" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,11 +145,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.asciimos.Main" />
-      <module name="ArabianNights" />
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.bootcamp22.GuessNumber.Main" />
+      <module name="GuessNumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.academiadecodigo.asciimos.*" />
+          <option name="PATTERN" value="org.academiadecodigo.bootcamp22.GuessNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,71 +168,75 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="888b58a2-84e8-4c5e-b57d-dcf445f29825" name="Default Changelist" comment="" />
-      <created>1550795836256</created>
+      <changelist id="99d4329e-42f5-4812-b7aa-a6ca053ef76d" name="Default Changelist" comment="" />
+      <created>1550793778695</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550795836256</updated>
+      <updated>1550793778695</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="801" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19170243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.59156626" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32863188" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53975904" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/asciimos/Main.java">
+    <entry file="file://$PROJECT_DIR$/GuessNumber.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/GetRandom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/asciimos/HappyGenies.java">
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Players.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/asciimos/Genies.java">
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/GuessNumber/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/asciimos/Lamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

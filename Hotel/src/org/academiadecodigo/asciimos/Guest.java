@@ -1,4 +1,4 @@
-package org.academiadecodigo.bootcamp22.Hotel;
+package org.academiadecodigo.asciimos;
 
 public class Guest {
 
